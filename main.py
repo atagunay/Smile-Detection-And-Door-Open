@@ -1,9 +1,7 @@
 import numpy as np
 import cv2
-import RPi.GPIO as GPIO
 import time
 import RPi.GPIO as GPIO
-import time
 from threading import Thread
 
 
